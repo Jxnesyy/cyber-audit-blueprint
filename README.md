@@ -1,4 +1,4 @@
-# # 🛡️ Cybersecurity Audit Blueprint: CLI Edition
+# 🛡️ Cybersecurity Audit Blueprint: CLI Edition
 
 > A black-hat mindset with white-hat execution — built for terminal warriors, backed by real-world frameworks.
 
