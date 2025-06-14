@@ -1,5 +1,6 @@
-# 🛡️ Cybersecurity Audit Blueprint: CLI Edition
-_A black-hat mindset with white-hat execution — built in the terminal._
+# # 🛡️ Cybersecurity Audit Blueprint: CLI Edition
+
+> A black-hat mindset with white-hat execution — built for terminal warriors, backed by real-world frameworks.
 
 ---
 
@@ -46,44 +47,35 @@ chmod +x *.sh
 ./report_generator.sh
 
 ✅ Audit Steps
+
 1. 🔐 Consent & Prep
-
 Complete checklists/prep_checklist.md
-
 Confirm devices, ISP setup, expectations
 
 2. 🕵️ Reconnaissance
-
 ./recon.sh
-
 Whois, nslookup, ARP scan, shodan
+
 🔍 Vulnerability Scanning
-
 ./scan.sh
-
 Nmap, Nikto, local ports + web interfaces
+
 💣 Simulated Attack (Ethical)
-
 ./simulate_attack.sh
-
 Hydra brute force (with test creds)
+
  🧠 Human Risk Training
 Fill in checklists/training_review.md
-
 Review phishing, password habits, device sharing
 
 📑 Reporting
-
 ./report_generator.sh
 Combine checklists into reports/final_report_template.md
 
 🧠 Philosophy
 Built using:
-
 ✅ NIST CSF
-
 ✅ CIS Controls (v8)
-
 ✅ Hacker tools + white-hat logic
 
 “Don’t just scan, explain. Don’t just break, help fix.”
